@@ -2,5 +2,7 @@
 
 ---
 
-Aplicação de um website café utilizando HTML, CSS e JavaScript
+- Aplicação de um website café utilizando HTML, CSS e JavaScript
+
+
 
