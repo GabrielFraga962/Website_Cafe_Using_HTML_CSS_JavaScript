@@ -31,11 +31,11 @@ Deployed [here](https://le-deux-magots-cafe.netlify.app/).
 
 <br>
 
-
 ## License :memo:
 
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](https://github.com/GabrielFraga962/Website_Cafe_Using_HTML_CSS_JavaScript/blob/main/LICENSE)**;
 - Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
+
 
